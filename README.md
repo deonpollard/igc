@@ -4,7 +4,7 @@ Tools and Utilities in support of IBM Infosphere Governance Catalog
 ## Balancesheet
 The Balancesheet is an Excel based viewpoint showing the Information Assets within any IGC Catalog.  Many a time a simple clear view on Assets under management is required.  This utility make use of the IGC Rest API to calculate the view.
 
-![Overview](igc/wiki-images/BalanceSheet.png "test")
+![Overview](https://raw.githubusercontent.com/deonpollard/igc/master/wiki-images/BalanceSheet.png)
 
 See if this works.
 ```
