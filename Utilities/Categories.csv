@@ -1,0 +1,5 @@
+name,parent_category,short_description
+cat101,,This is Cat01
+cat102,cat101,This is Cat02
+cat103,cat101,This is Cat03
+cat104,cat103,This is Cat04
