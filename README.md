@@ -14,3 +14,5 @@ You will be required to supply the HostName of the IGC Server and a UserName, Pa
 ## Utilities
 List of Utilities
 * GetTypes Get a List of valid IGC AssetTypes in a CSV file
+* InsertCategoryRID Insert list of Categories from CSV file into IGC
+** CSV File
