@@ -15,4 +15,9 @@ You will be required to supply the HostName of the IGC Server and a UserName, Pa
 List of Utilities
 * GetTypes Get a List of valid IGC AssetTypes in a CSV file
 * InsertCategoryRID Insert list of Categories from CSV file into IGC
-** CSV File
+```
+CSV File.
+name                name of category
+short_description   description of category
+parent_category     parent, leave blank for root otherwise use this column to create hierarchy
+```
